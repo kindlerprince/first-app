@@ -4,3 +4,5 @@
 `g++ first-app.cpp`
 - execute this using 
 `./a.out`
+- the above code will be compiled 
+- object file of name a.out will be created
