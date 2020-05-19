@@ -7,5 +7,7 @@ int main(){
 	result = a + b;
 	cout<<"Result : "<<result<<endl;
 	cout<<"Program completed";
+	cout<<"This is Prince learning Git"<<endl;
+	cout<<"How's the Josh"<<endl;
 	return 0;
 }
