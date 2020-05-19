@@ -5,6 +5,7 @@ int main(){
 	//2nd
 	//3rd
 	//4th
+	//changed
 	int a, b, result;
 	cout<<"Enter the two numbers: ";
 	cin>>a>>b;
