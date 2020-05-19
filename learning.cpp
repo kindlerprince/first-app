@@ -1,6 +1,10 @@
 //This is the first c++ program for learning git
 #include<iostream>
 int main(){
+	//1st
+	//2nd
+	//3rd
+	//4th
 	int a, b, result;
 	cout<<"Enter the two numbers: ";
 	cin>>a>>b;
