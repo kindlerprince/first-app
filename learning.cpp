@@ -7,6 +7,7 @@ int main(){
 	//4th
 	checking dual configuration
 	testing dual email configuration test 2
+	setting local email
 	int a, b, result;
 	cout<<"Enter the two numbers: ";
 	cin>>a>>b;
