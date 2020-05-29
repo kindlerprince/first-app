@@ -6,6 +6,7 @@ int main(){
 	//3rd
 	//4th
 	//changed
+	checking dual configuration
 	int a, b, result;
 	cout<<"Enter the two numbers: ";
 	cin>>a>>b;
