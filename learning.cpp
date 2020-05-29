@@ -5,7 +5,6 @@ int main(){
 	//2nd
 	//3rd
 	//4th
-	//changed
 	checking dual configuration
 	testing dual email configuration test 2
 	int a, b, result;
